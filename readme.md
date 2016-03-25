@@ -1,13 +1,13 @@
 
-#¹ØÓÚÏîÄ¿ÄãĞèÒªÖªµÀµÄÒ»ÇĞ
+#å…³äºé¡¹ç›®ä½ éœ€è¦çŸ¥é“çš„ä¸€åˆ‡
 
 
-##¿ª·¢¹¤¾ß
+##å¼€å‘å·¥å…·
 
-###GitÉèÖÃ
+###Gitè®¾ç½®
 
 http://www.runoob.com/git/git-basic-operations.html
-ÕÆÎÕÒÔÏÂÖ¸Áî£º
+æŒæ¡ä»¥ä¸‹æŒ‡ä»¤ï¼š
 - cd dir
 - git init
 - git clone
@@ -17,4 +17,10 @@ http://www.runoob.com/git/git-basic-operations.html
 - git commit -m "`message`"
 - git push `origin name` `branch`
 - git pull `origin name` `branch`
-»òÕß£¬´ó¼Ò¿ÉÒÔÏÂÔØSourceTree×÷Îª¹ÜÀíÈí¼ş¡£
+
+å…¶ä¸­çš„æ³¨é‡Šï¼š
+- `origin url`æ˜¯æ‰“å¼€githubä¸Šæµè§ˆå™¨ä¸­çš„åœ°å€
+- å¦‚æœè¦æ›´æ”¹remoteï¼Œå¯ä»¥git remote remove origin
+- å¦‚æœä½ å’Œä½ çš„partneræ”¹äº†åŒä¸€ä¸ªæ–‡ä»¶ï¼Œå¯èƒ½å¯¼è‡´å†²çªï¼Œå»ºè®®å¤§å®¶ç”¨SourceTree
+
+æˆ–è€…ï¼Œå¤§å®¶å¯ä»¥ä¸‹è½½SourceTreeä½œä¸ºç®¡ç†è½¯ä»¶ã€‚
